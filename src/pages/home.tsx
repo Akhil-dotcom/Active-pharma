@@ -2,6 +2,7 @@ import { FC } from "react";
 import About from "../components/About";
 import Header from "../components/Header";
 import Product from "../components/Product/Product";
+import Testimonial from "../components/Testimonial";
 
 const Home: FC = () => {
   return (
@@ -29,6 +30,7 @@ const Home: FC = () => {
       </div>
       <Product />
       <About />
+      <Testimonial />
     </div>
   );
 };
