@@ -52,7 +52,7 @@ const About: FC = () => {
             </p>
           </div>
         )}
-        <div className="grid grid-cols-2 grid-rows-2 md:grid-rows-1 lg:grid-cols-3 gap-10 pt-16 w-full">
+        <div className="grid grid-cols-2 grid-rows-2 md:grid-rows-1 lg:grid-cols-3 gap-5 xl:gap-10 pt-16 w-full">
           <div className="h-40 md:h-56 lg:h-80 w-full border relative z-40">
             <img
               src=""
